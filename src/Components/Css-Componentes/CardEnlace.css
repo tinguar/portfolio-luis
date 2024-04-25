@@ -1,0 +1,11 @@
+
+.col-md-4{
+    
+    display: block;
+    overflow: hidden;
+}
+.img-fluid.rounded-start {
+    
+    height: auto;
+    display: block;
+}
